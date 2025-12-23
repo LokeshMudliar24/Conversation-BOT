@@ -1,0 +1,7 @@
+{
+  "name": "HealthLab AI Assistant",
+  "description": "A sophisticated AI-powered healthcare booking assistant for lab testing platforms, featuring prescription OCR and context-aware test extraction.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
